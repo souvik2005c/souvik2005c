@@ -14,7 +14,7 @@ Email Me 👉 ✉️ **souvikc086@gmail.com** For Collaboration/Project or Anyth
 - ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SOUVIK2005C&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_me_souvik96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Souvik Chakraborty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souvikc086@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_me_souvik96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souvikc086@gmail.com) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
